@@ -1,0 +1,41 @@
+ellipse (x,y,w,h);
+
+rect (x,y,w,h);
+
+quad (x1,y1,x2,y2,x3,y3,x4,y4);
+
+line (x1,y1,x2,y2);
+
+background (r,g,b);
+
+noStroke ();
+
+fill (r,g,b);
+
+strokeWeight (thickness);
+
+stroke (r,g,b);
+
+arc (x,y,w,h,star,stop);
+
+var (variável) = (valor);
+
+(variável) += (valor); ou (variável)++; (para +1)
+(variável) = (variável) + (valor);
+
+var (variável A) = (valor)
+var (váriável B) = (váriável A) +-*/% 
+
+draw = fuction(){}
+
+mouseX , mouseY (obs:background and no background)
+
+text ("palavra/frase",x,y)
+textSize (valor);
+
+
+
+
+
+
+

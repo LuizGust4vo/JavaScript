@@ -1,3 +1,3 @@
 # JavaScript
 
-* Repositório criado para auxiliar na criação de algoritmos em JS.
+* Repositório criado para armazenar projetos e auxiliar na criação de algoritmos em JS.
